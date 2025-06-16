@@ -7,4 +7,6 @@ This app showcases front end UI skills by implementing the following dribble des
 
 Screenshots:
 
-<img src="Screenshots/homepage.png" alt="Login" height="300"/>
+<p align = "center">
+    <img src="Screenshots/homepage.png" alt="Login" height="500">
+</p>
